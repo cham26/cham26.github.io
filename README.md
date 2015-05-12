@@ -1,3 +1,6 @@
-# cham26.github.io
+typewriter
+==========
 
-To all lost souls waiting to be found.
+A simple and beautiful theme for Jekyll.
+
+![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png)
