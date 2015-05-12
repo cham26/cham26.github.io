@@ -1,8 +1,8 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "Ame Perdue"
+description: "To all lost souls waiting to be found. Scarred hearts looking foward to get healed."
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://cham26.github.io"
 
 # Build settings
 markdown: kramdown
@@ -15,8 +15,8 @@ links:
   - title: "abt"
     url: /about
   - title: "twt"
-    url: http://twitter.com/alixedi
+    url: 
   - title: "git"
-    url: http://github.com/alixedi
+    url: http://cham26.github.io/
   - title: "rss"
     url: /feed.xml

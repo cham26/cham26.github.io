@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ame Perdue</title>
+    <description>To all lost souls waiting to be found. Scarred hearts looking foward to get healed.</description>
+    <link>http://cham26.github.io/</link>
+    <atom:link href="http://cham26.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Raindrops</title>
+        <description>&lt;p&gt;Raindrops are falling once again.
+It slides through the glass windows,
+Clatters on the ceiling wall,
+Reminds me of the day I met you.&lt;/p&gt;
+
+&lt;p&gt;You looked far away while I kept staring at you.
+So near to touch and hold,
+but far away to call my own.&lt;/p&gt;
+
+&lt;p&gt;She had your heart I can never steal.
+I just hope one day it will be free for real.
+Like the raindrops free falling everywhere,
+not afraid to fall and all healed.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 May 2015 08:46:05 -0300</pubDate>
+        <link>http://cham26.github.io/poems/2015/05/11/Raindrops/</link>
+        <guid isPermaLink="true">http://cham26.github.io/poems/2015/05/11/Raindrops/</guid>
+      </item>
+    
+      <item>
+        <title>Rollercoaster</title>
+        <description>&lt;p&gt;Butterflies in the stomach.
+Rainbow in the sky.
+Colors everywhere.
+Thouoghts of you in my mind.&lt;/p&gt;
+
+&lt;p&gt;Heartbeat thumps fast.
+Smile all over the face.
+Radiance flourishes.
+I thought it was something real.&lt;/p&gt;
+
+&lt;p&gt;Calm as the sea.
+Peaceful as the moonlight.
+Painful as thorns.
+Hopeful? not anymore.&lt;/p&gt;
+
+&lt;p&gt;Time has passed.
+Cold wind blew.
+Numb as ice.
+Slip of the fingertip, feelings may fade too.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Sat, 18 Apr 2015 00:00:00 -0300</pubDate>
+        <link>http://cham26.github.io/2015/04/18/Rollercoaster/</link>
+        <guid isPermaLink="true">http://cham26.github.io/2015/04/18/Rollercoaster/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 24 May 2014 20:52:38 -0300</pubDate>
+        <link>http://cham26.github.io/jekyll/update/2014/05/24/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://cham26.github.io/jekyll/update/2014/05/24/welcome-to-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
