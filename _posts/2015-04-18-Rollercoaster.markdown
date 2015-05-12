@@ -1,12 +1,14 @@
 ---
-layout: default
-title: Rollercoaster
+layout: post
+title:  "Rollercoaster"
+date:   2015-04-18 11:46:05
+categories: Poems
 ---
 
 Butterflies in the stomach.
 Rainbow in the sky.
 Colors everywhere.
-Thouoghts of you in my mind.
+Thoughts of you in my mind.
 
 Heartbeat thumps fast.
 Smile all over the face.
