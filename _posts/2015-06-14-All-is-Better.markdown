@@ -11,4 +11,4 @@ Wounds mended and healed.
 
 She lived to tell her story of joy and sorrow.
 
-She's smiling again because the road she's taken lead to you.
+She's smiling again because the road she's taken led to you.
