@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Like a theif"
+title:  "Like a Thief"
 date:   2015-06-14 11:46:05
 categories: Prose
 ---
